@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição do Python
+.Python
+env/
+.env
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache de pacotes
+*.egg-info/
+.dist-info/
+*.egg
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
